@@ -1,7 +1,4 @@
 
-    bloco de código 
-
-    ´´´´ Bloco de comando alternativos ´´´´
 
 FORMAL QUESTIONS
 1-
@@ -15,4 +12,4 @@ A) Take yo ass out of the chair and help me
 B) You Fr helping me?
 C) Yo dawg, pay attention to the class
 
-    Bloco de Comandos 
+    
