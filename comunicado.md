@@ -1,17 +1,17 @@
 
 
-FORMAL QUESTIONS
-1-
-A) Would you be able to help me with some math questions
-B) May you be able help me with this coding question
-C) Do you mind helping me with this?
+## Worbench
 
-INFORMAL QUESTIONS
-1- 
-A) Take yo ass out of the chair and help me
-B) You Fr helping me?
-C) Yo dawg, pay attention to the class
+### Preview themes before installing 
 
-    Document in English 
+You can now preview themes available on Marketplace before installing them. From the Color Themes, select **Browse Additional Color Themes**  to list the MarketPlace.
 
-Test 
+<!-- FIXME: Should text be "Vs Code Marketplace ?" -->
+
+![Preview Color Themes from the Marketplace](images.gif)
+
+Press `kbstyle(Enter)` on a theme entry to install the extension. 
+
+<!-- TODO: Add screensshot of popular color theme -->
+
+### Configure Problems navigation order 
