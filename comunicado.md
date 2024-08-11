@@ -1,10 +1,12 @@
 # Markdown syntax guide
+Basic guide of this leanguage of markup text
 
 ## Headers
 
-# This is a Heading h1
-## This is a Heading h2
-###### This is a Heading h6
+
+### This is a Heading h3
+#### This is a Heading h4
+##### This is a Heading h5
 
 ## Emphasis
 
