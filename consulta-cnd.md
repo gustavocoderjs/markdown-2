@@ -15,3 +15,4 @@ Clique aqui para uma explicação mais detalhada, ou escolha seu destino:
 
 As chamadas direcionadas à API Consulta CND são inicialmente validadas contra os parâmetros de chamada. Se o identificador (CNPJ, CPF ou NIRF) for válido, a API consulta o sistema de Certidões Negativas. A resposta é então devolvida através do mesmo canal para o chamador. 
 
+© 2024 Seu Nome ou Nome da Empresa. Todos os direitos reservados.
